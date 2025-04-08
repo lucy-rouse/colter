@@ -1,0 +1,15 @@
+h1 {
+    font-family: 'SmallCaps', sans-serif;
+    font-size: 2em;
+    font-weight: bold;
+    text-align: left;
+    margin-top: 1em;
+    margin-bottom: 1em;
+    color: pink;
+}
+
+p {
+    font-size: 1em;
+    padding: 5px;
+    color: gray;
+}
